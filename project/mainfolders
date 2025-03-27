@@ -1,0 +1,10 @@
+force-app/main/default/
+
+    classes/
+    triggers/
+    lwc/
+    flows/
+
+
+docs/
+scripts/
